@@ -36,7 +36,7 @@ The Student Task Manager provides a centralized system for managing academic tas
 - **Database Design:** `docs/database/database-design.png`
 - **REST API Documentation:** `docs/api/api-documentation.md`
 - **API Testing Screenshots:** `docs/api/screenshots_of_successful_responses/`
-- **Demonstration Video:** [Google Drive Link](https://drive.google.com/file/d/13YJZZpo9JSjeUXXkKQ7HVKOubTp-vpcS/view?usp=sharing)
+- **Demonstration Video:** `presentation_video/25BCE1072_Presentation.mp4`
 
 ## 📁 Source Code
 
